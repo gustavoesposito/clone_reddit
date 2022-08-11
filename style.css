@@ -3,3 +3,22 @@
     padding:0;
 box-sizing: border-box;    
 }
+header{
+    padding: 10px 0;
+    background-color: white
+    ;
+
+}
+.wraper-header{
+    width:100%;
+    padding: 0 10px;
+    display: flex;
+}
+.wraper-header img{
+    width: 100px;
+}
+.home-btn{
+    display: flex
+    ;
+    
+}
