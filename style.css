@@ -128,18 +128,23 @@ padding-bottom: 10px;
  }
  .post-single{
     display:flex;
-     background-color: white0
-     ;
-     padding:20px 0;
-     
+    background-color: white
+    ;
+    padding:20px 0;
+
   }
   .post-sidebar{
-    padding:8px 
-    ;
+    padding:  10px ;
     background-color:rgb(245,245,245) ;
   }
   .post-content{
+    padding: 20px;
+  }
+  .post-content img{
     width: 30px;
     height:30px;
     border-radius: 15px;
+  }
+  .post-content h3{
+    margin-top: 10px;
   }
