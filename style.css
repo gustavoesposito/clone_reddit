@@ -75,7 +75,7 @@ body{
 .comunidades{
     background-color: white;
     border-radius: 10px;
-    padding : 0 10px 20px 10px;
+padding-bottom: 10px;
 }
 .comunidades h2{
     color: white;
@@ -104,7 +104,7 @@ body{
     border: 0;
   
     width: 60px;
-    height: 30px;
+    height: 20px;
  }
  .comunidade-single img{
     vertical-align: middle;
@@ -116,7 +116,9 @@ body{
     
  }
  .comunidades button.view-all{
-    width: 100%;
+    width: 80%;
+    display: block;
+    margin: auto;
     margin: 10px 0;
     height: 30px;
     background-color: #069;
