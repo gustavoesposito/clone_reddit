@@ -12,6 +12,7 @@ header{
 body{
     background-color: #dae0e6;
 }
+ 
 .wraper-header,
 .wraper-main
 {
@@ -30,6 +31,7 @@ body{
     justify-content: space-around;
     width: 20%;
  padding: 10px 0;
+ color: rgb(68, 68, 68);
 }
 
 .search{
@@ -51,6 +53,8 @@ body{
     justify-content: space-between;
     width: 13%;
     padding: 10px 0;
+    color: rgb(68, 68, 68);
+
 }
 
 .notifications svg{
@@ -77,12 +81,9 @@ body{
     padding-top: 30px  ;
     padding-bottom: 10px;
     padding-left: 10px;
-    background-image: linear-gradient(to right, #16222A 0%, #3A6073  51%, #16222A  100%);        
+    background-image: linear-gradient(to right, #fe8c00 0%, #f83600  51%, #fe8c00  100%); 
     border-radius: 10px 10px 0px 0px;
    
-
-       
-     
 }
 
 .comunidade-single{
@@ -106,4 +107,10 @@ body{
  }
  .comunidade-single img{
     vertical-align: middle;
+ }
+ .comunidades h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
  }
